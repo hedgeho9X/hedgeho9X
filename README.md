@@ -20,7 +20,7 @@
 
 - 🔭 Currently focusing on **AI Agent architecture**
 - 💻 Building with **Hono**, **Drizzle**, **TypeScript**
-- 🤖 Learning **Agent development**, **Context Engineering**, RAG systems
+- 🤖 Skilled in **Agent development**, **Context Engineering**, RAG systems
 - 🌱 Always learning and exploring new technologies
 - ⚡ Fun fact: I love fitness and hackathons!
 
